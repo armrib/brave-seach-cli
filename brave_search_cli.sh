@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Usage example: search how to extract a field from an object in an array with jq
 # Packages used: curl, sed, jq, w3m
 function search() { 
